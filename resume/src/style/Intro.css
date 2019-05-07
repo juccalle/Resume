@@ -1,6 +1,29 @@
-.middleText{
-    background-color: #A8D0E6;
-    margin: 0;
-    padding: 0;
-    color: white;
+.intro{
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  height: 100vh;
+  overflow: auto;
+  background: #A8D0E6;
 }
+
+.middleText{
+    margin-left: 20%;
+    padding-top: 20%;
+    color: white;
+    width: 50vh;
+}
+
+.headName{
+    font-family: 'Roboto', sans-serif;
+    font-weight: bolder;
+    font-size: 3em;
+}
+
+.headText{
+    font-family: 'Roboto', sans-serif;
+    font-size: 2em;
+
+}
+
