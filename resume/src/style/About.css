@@ -14,12 +14,25 @@
     font-family: 'Roboto', sans-serif;
     color: white;
     padding-left: 60vh;
-    padding-top: 20vh; 
+    padding-top: 10vh; 
+}
+
+img{
+    -webkit-transform:rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    transform: rotate(90deg);
+    width: 40vh;
+    height: 40vh;
+    border-radius: 50%;
+    margin-top: 7vh;
+    margin-left: 60vh;
 }
 
 .aboutText{
     padding-left: 50vh;
-    padding-top: 40vh;
+    padding-top: 10vh;
     width: 70vh;
     font-size: 2em;
     color: white;
