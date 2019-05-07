@@ -1,0 +1,27 @@
+.about{
+    background-color: #24305E; 
+    height: 100vh;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    height: 100vh;
+    overflow: auto;
+}
+
+.title{
+    font-size: 2.5em;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    padding-left: 60vh;
+    padding-top: 20vh; 
+}
+
+.aboutText{
+    padding-left: 50vh;
+    padding-top: 40vh;
+    width: 70vh;
+    font-size: 2em;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
