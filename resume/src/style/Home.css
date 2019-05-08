@@ -2,6 +2,8 @@ html {
     padding: 0;
     margin: 0;
     height: 100%;
+    overscroll-behavior: none;
+    position: sticky;
 }
 
 body{
@@ -9,10 +11,14 @@ body{
     margin: 0;
     border: 0;
     height: 100%;
+    overscroll-behavior: none;
+    position: sticky;
+    background-color: #A8D0E6;
 }
 
 h1{
     padding: 0;
     margin: 0;
     border: 0;
+    position: sticky;
 }

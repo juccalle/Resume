@@ -4,8 +4,9 @@
   bottom: 0;
   right: 0;
   height: 100vh;
-  overflow: auto;
+  overflow: hidden;
   background: #A8D0E6;
+  
 }
 
 .middleText{
@@ -19,6 +20,7 @@
     font-family: 'Roboto', sans-serif;
     font-weight: bolder;
     font-size: 3em;
+    position: sticky;
 }
 
 .headText{
